@@ -1,0 +1,23 @@
+{
+  "name": "benchmark",
+  "version": "0.1.0",
+  "description": "评估哪个方法性能更快",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/all-demo/benchmark.git"
+  },
+  "keywords": [],
+  "author": "shangwfa <shangwfa@126.com> (http://github.com/shangwfa)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/all-demo/benchmark/issues"
+  },
+  "homepage": "https://github.com/all-demo/benchmark#readme",
+  "dependencies": {
+    "benchmark": "^2.1.4"
+  }
+}
